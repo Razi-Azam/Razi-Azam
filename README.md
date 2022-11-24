@@ -12,4 +12,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Razi-Azam&show_icons=true&theme=react" />
 
+### My Rewards 🏆
 [![@raziazam's Holopin board](https://holopin.me/raziazam)](https://holopin.io/@raziazam)
