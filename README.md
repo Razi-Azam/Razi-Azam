@@ -11,3 +11,5 @@
 - ⚡ Fun fact: I often write quotes based on different situations that might also be imaginary sometimes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Razi-Azam&show_icons=true&theme=react" />
+
+[![@raziazam's Holopin board](https://holopin.me/raziazam)](https://holopin.io/@raziazam)
