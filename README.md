@@ -1,13 +1,12 @@
-### Hi, This is Razi. Welcome to my profile. 👋
+<div align="center" style="transition: transform 1s ease-in-out;">
+  <h1>Hi👋 This is Razi. Welcome to my profile. </h1>
+</div>
 
+<div align="center">
+<h3>💻 <span style="font-color: #ffe599;">Frontend </span> Developer 🧑🏻‍💻 Continuous Learner</h3>
+<h3> 🎨 Loves Creativity 🖥️ Exploring Backend Development</h3>
+</div>
 
-- 🔭 I’m currently working on Frontend Development.
-- 👯 I’m available to collaborate on Open Source Projects.
-- 💬 Ask me about Frontend, Canva, or any things related to tech.
-- 📞 How to reach me: [Linkedin @razi-azam](https://www.linkedin.com/in/razi-azam-47750087/)
-- 🗣️ Pronouns: Rah Zee (He/Him)
-
-###
 
 <div align="center">
   <h2>You can reach me:</h2>
@@ -32,8 +31,10 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razi-Azam&langs_count=5&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razi-Azam&langs_count=5&theme=dark" />
 
+###
+[![trophy](https://github-profile-trophy.vercel.app/?username=Razi-Azam&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### My Rewards 🏆
