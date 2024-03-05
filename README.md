@@ -12,16 +12,20 @@
   <h2>You can reach me:</h2>
   <a href="https://www.linkedin.com/in/razi-azam-47750087/" style="text-decoration:none;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+    <a href="mailto:razi.azam.work@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=565e67&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://www.youtube.com/@coderrazi" style="text-decoration:none;">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   <a href="https://twitter.com/raziazam1" style="text-decoration:none;">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+    <a href="https://www.instagram.com/coderrazi/" style="text-decoration:none;">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff28a7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Razi-Azam.Razi-Azam&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Razi-Azam.Razi-Azam&" />
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
