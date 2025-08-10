@@ -37,6 +37,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razi-Azam&langs_count=5&theme=dark" />
 
+###
+![Razi-Azam's Stats](https://github-readme-stats.vercel.app/api?username=Razi-Azam&theme=dark&mode=daily&show_icons=true&hide_border=true&count_private=true)
+
 ### My Tech Stack 👨🏻‍💻
 <div >
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
